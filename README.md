@@ -12,3 +12,8 @@ An Android ROM I compiled for the **LG E400 (Swift L3)**.
 -  The repository **does not contain the full source code of the system**.
 - All `.zip` installation files (ROMs) are located in the **Releases** tab.
 
+## These repositories were used for this project:
+- https://github.com/CyanogenMod/android
+- https://github.com/TheMuppets/proprietary_vendor_lge
+- https://github.com/LineageOS/lge-kernel-e400
+- https://github.com/LineageOS/android_device_lge_e400
