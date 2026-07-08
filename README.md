@@ -9,7 +9,7 @@ An Android ROM I compiled for the **LG E400 (Swift L3)**.
 ## Important Information
 - **I am not responsible for any damaged hardware; you install at your own risk!**
 - This is exclusively an **archive of ready-to-use, pre-compiled releases**.
--  The repository **does not contain the full source code of the system**.
+-  The repository **does not contain the full source code of the system**; source code you can find [here](https://github.com/FoxiooOfficial/Foxdroid).
 - All `.zip` installation files (ROMs) are located in the **Releases** tab.
 
 ## These repositories were used for this project:
